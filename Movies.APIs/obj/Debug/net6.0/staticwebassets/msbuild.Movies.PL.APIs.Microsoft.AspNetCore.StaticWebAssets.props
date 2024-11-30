@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\30b19ed1-35df-4512-8295-7d430074a552Screenshot_2023.06.11_15.28.53.242.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Movies.PL.APIs</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Movies.PL.APIs</BasePath>
+      <RelativePath>Images/30b19ed1-35df-4512-8295-7d430074a552Screenshot_2023.06.11_15.28.53.242.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\30b19ed1-35df-4512-8295-7d430074a552Screenshot_2023.06.11_15.28.53.242.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\61f5642b-5929-4ea5-bc29-785560cb90f9IMG_20191123_212845_253.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Movies.PL.APIs</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Movies.PL.APIs</BasePath>
+      <RelativePath>Images/61f5642b-5929-4ea5-bc29-785560cb90f9IMG_20191123_212845_253.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\61f5642b-5929-4ea5-bc29-785560cb90f9IMG_20191123_212845_253.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\7a4b1b3f-815b-4fdc-bdd1-137ea19d7893Screenshot_2023.06.11_15.28.53.242.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Movies.PL.APIs</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Movies.PL.APIs</BasePath>
+      <RelativePath>Images/7a4b1b3f-815b-4fdc-bdd1-137ea19d7893Screenshot_2023.06.11_15.28.53.242.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\7a4b1b3f-815b-4fdc-bdd1-137ea19d7893Screenshot_2023.06.11_15.28.53.242.png))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

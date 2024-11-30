@@ -1,0 +1,24 @@
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\obj\Debug\net6.0\Movies.DAL.csproj.AssemblyReference.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\obj\Debug\net6.0\Movies.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\obj\Debug\net6.0\Movies.DAL.AssemblyInfoInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\obj\Debug\net6.0\Movies.DAL.AssemblyInfo.cs
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\obj\Debug\net6.0\Movies.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\bin\Debug\net6.0\Movies.DAL.deps.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\bin\Debug\net6.0\Movies.DAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\bin\Debug\net6.0\Movies.DAL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\obj\Debug\net6.0\Movies.DAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\obj\Debug\net6.0\refint\Movies.DAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\obj\Debug\net6.0\Movies.DAL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.DAL\obj\Debug\net6.0\ref\Movies.DAL.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\bin\Debug\net6.0\Movies.DAL.deps.json
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\bin\Debug\net6.0\Movies.DAL.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\bin\Debug\net6.0\Movies.DAL.pdb
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\obj\Debug\net6.0\Movies.DAL.csproj.AssemblyReference.cache
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\obj\Debug\net6.0\Movies.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\obj\Debug\net6.0\Movies.DAL.AssemblyInfoInputs.cache
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\obj\Debug\net6.0\Movies.DAL.AssemblyInfo.cs
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\obj\Debug\net6.0\Movies.DAL.csproj.CoreCompileInputs.cache
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\obj\Debug\net6.0\Movies.DAL.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\obj\Debug\net6.0\refint\Movies.DAL.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\obj\Debug\net6.0\Movies.DAL.pdb
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.DAL\obj\Debug\net6.0\ref\Movies.DAL.dll

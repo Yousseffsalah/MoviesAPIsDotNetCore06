@@ -1,0 +1,30 @@
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\obj\Debug\net6.0\Movies.BAL.csproj.AssemblyReference.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\obj\Debug\net6.0\Movies.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\obj\Debug\net6.0\Movies.BAL.AssemblyInfoInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\obj\Debug\net6.0\Movies.BAL.AssemblyInfo.cs
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\obj\Debug\net6.0\Movies.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\bin\Debug\net6.0\Movies.BAL.deps.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\bin\Debug\net6.0\Movies.BAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\bin\Debug\net6.0\Movies.BAL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\bin\Debug\net6.0\Movies.DAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\bin\Debug\net6.0\Movies.DAL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\obj\Debug\net6.0\Movies.BAL.csproj.CopyComplete
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\obj\Debug\net6.0\Movies.BAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\obj\Debug\net6.0\refint\Movies.BAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\obj\Debug\net6.0\Movies.BAL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.BAL\obj\Debug\net6.0\ref\Movies.BAL.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\bin\Debug\net6.0\Movies.BAL.deps.json
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\bin\Debug\net6.0\Movies.BAL.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\bin\Debug\net6.0\Movies.BAL.pdb
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\bin\Debug\net6.0\Movies.DAL.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\bin\Debug\net6.0\Movies.DAL.pdb
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\obj\Debug\net6.0\Movies.BAL.csproj.AssemblyReference.cache
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\obj\Debug\net6.0\Movies.BAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\obj\Debug\net6.0\Movies.BAL.AssemblyInfoInputs.cache
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\obj\Debug\net6.0\Movies.BAL.AssemblyInfo.cs
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\obj\Debug\net6.0\Movies.BAL.csproj.CoreCompileInputs.cache
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\obj\Debug\net6.0\Movies.BAL.csproj.Up2Date
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\obj\Debug\net6.0\Movies.BAL.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\obj\Debug\net6.0\refint\Movies.BAL.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\obj\Debug\net6.0\Movies.BAL.pdb
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.BAL\obj\Debug\net6.0\ref\Movies.BAL.dll

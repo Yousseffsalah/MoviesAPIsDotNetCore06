@@ -1,0 +1,150 @@
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.csproj.AssemblyReference.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.AssemblyInfoInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.AssemblyInfo.cs
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.csproj.CoreCompileInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.staticwebassets.runtime.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.exe
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.deps.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.runtimeconfig.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Movies.BAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Movies.DAL.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Movies.BAL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\bin\Debug\net6.0\Movies.DAL.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Movies.PL.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Movies.PL.APIs.props
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movies.PL.APIs.props
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movies.PL.APIs.props
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\scopedcss\bundle\Movies.PL.APIs.styles.css
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.csproj.CopyComplete
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\refint\Movies.PL.APIs.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.genruntimeconfig.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Movies.APIs.Soultion\Movies.APIs\obj\Debug\net6.0\ref\Movies.PL.APIs.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\appsettings.Development.json
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\appsettings.json
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.staticwebassets.runtime.json
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.exe
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.deps.json
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.runtimeconfig.json
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Movies.PL.APIs.pdb
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\AutoMapper.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Humanizer.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Movies.BAL.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Movies.DAL.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Movies.BAL.pdb
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\bin\Debug\net6.0\Movies.DAL.pdb
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.csproj.AssemblyReference.cache
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.AssemblyInfoInputs.cache
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.AssemblyInfo.cs
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.csproj.CoreCompileInputs.cache
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Movies.PL.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Movies.PL.APIs.props
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movies.PL.APIs.props
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movies.PL.APIs.props
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\scopedcss\bundle\Movies.PL.APIs.styles.css
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\Movies.P.BCCF62B2.Up2Date
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\refint\Movies.PL.APIs.dll
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.pdb
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\Movies.PL.APIs.genruntimeconfig.cache
+E:\Projects\MoviesAPIsDotNetCore06-master\Movies.APIs\obj\Debug\net6.0\ref\Movies.PL.APIs.dll

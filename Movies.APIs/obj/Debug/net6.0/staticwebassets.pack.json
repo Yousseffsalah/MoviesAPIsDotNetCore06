@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projects\\MoviesAPIsDotNetCore06-master\\Movies.APIs\\wwwroot\\Images\\30b19ed1-35df-4512-8295-7d430074a552Screenshot_2023.06.11_15.28.53.242.png",
+      "PackagePath": "staticwebassets\\Images\\30b19ed1-35df-4512-8295-7d430074a552Screenshot_2023.06.11_15.28.53.242.png"
+    },
+    {
+      "Id": "E:\\Projects\\MoviesAPIsDotNetCore06-master\\Movies.APIs\\wwwroot\\Images\\61f5642b-5929-4ea5-bc29-785560cb90f9IMG_20191123_212845_253.jpg",
+      "PackagePath": "staticwebassets\\Images\\61f5642b-5929-4ea5-bc29-785560cb90f9IMG_20191123_212845_253.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\MoviesAPIsDotNetCore06-master\\Movies.APIs\\wwwroot\\Images\\7a4b1b3f-815b-4fdc-bdd1-137ea19d7893Screenshot_2023.06.11_15.28.53.242.png",
+      "PackagePath": "staticwebassets\\Images\\7a4b1b3f-815b-4fdc-bdd1-137ea19d7893Screenshot_2023.06.11_15.28.53.242.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Movies.PL.APIs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Movies.PL.APIs.props",
+      "PackagePath": "build\\Movies.PL.APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Movies.PL.APIs.props",
+      "PackagePath": "buildMultiTargeting\\Movies.PL.APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Movies.PL.APIs.props",
+      "PackagePath": "buildTransitive\\Movies.PL.APIs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
